@@ -1,0 +1,88 @@
+,feature_id,compound_db_identity,compound_name,compound_annotation_score,mol_formula,adduct,precursor_mz,mz_diff_ppm,neutral_mass,rt
+0,202,not available,not available,not available,not available,not available,not available,not available,not available,not available
+1,702,not available,not available,not available,not available,not available,not available,not available,not available,not available
+2,1131,not available,not available,not available,not available,not available,not available,not available,not available,not available
+3,2207,not available,not available,not available,not available,not available,not available,not available,not available,not available
+4,2832,Procyanidin B1: [M+H]+: 0.843,Procyanidin B1,0.84,C30H26O12,[M+H]+,579.1497,-0.69,578.14243,3.96
+5,2953,not available,not available,not available,not available,not available,not available,not available,not available,not available
+6,3268,not available,not available,not available,not available,not available,not available,not available,not available,not available
+7,3278,Caffeic Acid-3-B-D-Glucuronide: [M+H]+: 0.532,Caffeic Acid-3-B-D-Glucuronide,0.53,C15H16O10,[M+H]+,357.08162,-1.92,356.07435,4.16
+8,3284,not available,not available,not available,not available,not available,not available,not available,not available,not available
+9,3322,Hippuric Acid: [M+H]+: 0.595,Hippuric Acid,0.59,C9H9NO3,[M+H]+,180.06552,-0.52,179.05824,4.19
+10,3511,not available,not available,not available,not available,not available,not available,not available,not available,not available
+11,3553,Chlorogenic Acid: [M+H]+: 0.661,Chlorogenic Acid,0.66,C16H18O9,[M+H]+,355.10236,-1.28,354.09508,4.24
+12,3583,not available,not available,not available,not available,not available,not available,not available,not available,not available
+13,3631,(+)-Catechin: [M+H]+: 0.636,(+)-Catechin,0.64,C15H14O6,[M+H]+,291.08631,-1.23,290.07904,4.28
+14,3640,not available,not available,not available,not available,not available,not available,not available,not available,not available
+15,3989,Vanillic Acid: [M+H]+: 0.688,Vanillic Acid,0.69,C8H8O4,[M+H]+,169.04953,-0.07,168.04226,4.44
+16,4026,not available,not available,not available,not available,not available,not available,not available,not available,not available
+17,4051,not available,not available,not available,not available,not available,not available,not available,not available,not available
+18,4124,not available,not available,not available,not available,not available,not available,not available,not available,not available
+19,4265,Caffeic Acid: [M+H]+: 0.671,Caffeic Acid,0.67,C9H8O4,[M+H]+,181.04953,-0.66,180.04226,4.54
+20,4634,Procyanidin B2: [M+H]+: 0.789,Procyanidin B2,0.79,C30H26O12,[M+H]+,579.1497,-0.59,578.14243,4.63
+21,4712,not available,not available,not available,not available,not available,not available,not available,not available,not available
+22,4793,not available,not available,not available,not available,not available,not available,not available,not available,not available
+23,4843,Syringic Acid: [M+H]+: 0.725,Syringic Acid,0.73,C9H10O5,[M+H]+,199.0601,-0.71,198.05282,4.72
+24,5301,not available,not available,not available,not available,not available,not available,not available,not available,not available
+25,5302,(-)-Epicatechin: [M+H]+: 0.670,(-)-Epicatechin,0.67,C15H14O6,[M+H]+,291.08631,-1.2,290.07904,4.89
+26,5303,not available,not available,not available,not available,not available,not available,not available,not available,not available
+27,5319,not available,not available,not available,not available,not available,not available,not available,not available,not available
+28,5321,not available,not available,not available,not available,not available,not available,not available,not available,not available
+29,5380,not available,not available,not available,not available,not available,not available,not available,not available,not available
+30,5626,not available,not available,not available,not available,not available,not available,not available,not available,not available
+31,5629,not available,not available,not available,not available,not available,not available,not available,not available,not available
+32,5755,Procyanidin C1: [M+H]+: 0.745,Procyanidin C1,0.74,C45H38O18,[M+H]+,867.21309,-1.41,866.20581,5.07
+33,6038,not available,not available,not available,not available,not available,not available,not available,not available,not available
+34,6049,not available,not available,not available,not available,not available,not available,not available,not available,not available
+35,6113,Daidzein-7-B-D-Glucuronide: [M+H]+: 0.809,Daidzein-7-B-D-Glucuronide,0.81,C21H18O10,[M+H]+,431.09727,-0.7,430.09,5.21
+36,6378,not available,not available,not available,not available,not available,not available,not available,not available,not available
+37,6416,not available,not available,not available,not available,not available,not available,not available,not available,not available
+38,6490,P-Coumaric Acid: [M+H]+: 0.761,P-Coumaric Acid,0.76,C9H8O3,[M+H]+,165.05462,0.01,164.04734,5.37
+39,6604,not available,not available,not available,not available,not available,not available,not available,not available,not available
+40,6852,not available,not available,not available,not available,not available,not available,not available,not available,not available
+41,6969,not available,not available,not available,not available,not available,not available,not available,not available,not available
+42,7298,(+)-Rutin: [M+H]+: 0.749,(+)-Rutin,0.75,C27H30O16,[M+H]+,611.16066,-0.95,610.15338,5.67
+43,7303,not available,not available,not available,not available,not available,not available,not available,not available,not available
+44,7454,Isoferulic Acid: [M+H]+: 0.777,Isoferulic Acid,0.78,C10H10O4,[M+H]+,195.06518,-0.46,194.05791,5.73
+45,7599,Sinapic Acid: [M+H]+: 0.723,Sinapic Acid,0.72,C11H12O5,[M+H]+,225.07575,-0.87,224.06847,5.79
+46,7642,not available,not available,not available,not available,not available,not available,not available,not available,not available
+47,7643,(-)-Epicatechin Gallate: [M+H]+: 0.751,(-)-Epicatechin Gallate,0.75,C22H18O10,[M+H]+,443.09727,-1.0,442.09,5.8
+48,7740,not available,not available,not available,not available,not available,not available,not available,not available,not available
+49,7767,Quercetin-7-O-B-D-Glucuronide: [M+H]+: 0.695,Quercetin-7-O-B-D-Glucuronide,0.69,C21H18O13,[M+H]+,479.08202,-0.82,478.07474,5.76
+50,7771,not available,not available,not available,not available,not available,not available,not available,not available,not available
+51,7793,Trans-M-Coumaric Acid: [M+H]+: 0.671,Trans-M-Coumaric Acid,0.67,C9H8O3,[M+H]+,165.05462,-0.27,164.04734,5.89
+52,7991,Ferulic Acid (B): [M+H]+: 0.725,Ferulic Acid (B),0.72,C10H10O4,[M+H]+,195.06518,-0.32,194.05791,5.94
+53,8072,Procyanidin A2: [M+H]+: 0.775,Procyanidin A2,0.77,C30H24O12,[M+H]+,577.13405,-0.75,576.12678,5.96
+54,8157,Genistein-7-B-D-Glucuronide: [M+H]+: 0.684,Genistein-7-B-D-Glucuronide,0.68,C21H18O11,[M+H]+,447.09219,-0.96,446.08491,6.0
+55,8220,"2,6-Dimethylphenol (B): [M+H]+: 0.540","2,6-Dimethylphenol (B)",0.54,C8H10O,[M+H]+,123.08044,-0.23,122.07316,6.1
+56,8398,Benzoic Acid: [M+H]+: 0.645,Benzoic Acid,0.65,C7H6O2,[M+H]+,123.04406,-0.36,122.03678,6.11
+57,8558,"2,6-Dimethylphenol (B): [M+H]+: 0.911","2,6-Dimethylphenol (B)",0.91,C8H10O,[M+H]+,123.08044,-0.15,122.07316,6.1
+58,8713,not available,not available,not available,not available,not available,not available,not available,not available,not available
+59,8767,Benzoic Acid: [M+H]+: 0.570,Benzoic Acid,0.57,C7H6O2,[M+H]+,123.04406,-0.49,122.03678,6.11
+60,8814,Naringin: [M+H]+: 0.775,Naringin,0.77,C27H32O14,[M+H]+,581.18648,-0.75,580.17921,6.23
+61,8857,Kaempferol-3-O-Glucuronide: [M+H]+: 0.699,Kaempferol-3-O-Glucuronide,0.7,C21H18O12,[M+H]+,463.0871,-1.2,462.07983,6.25
+62,9185,not available,not available,not available,not available,not available,not available,not available,not available,not available
+63,9190,Hesperidin (A): [M+H]+: 0.784,Hesperidin (A),0.78,C28H34O15,[M+H]+,611.19705,-0.91,610.18977,6.35
+64,9192,Trans-O-Coumaric Acid: [M+H]+: 0.691,Trans-O-Coumaric Acid,0.69,C9H8O3,[M+H]+,165.05462,-0.34,164.04734,6.38
+65,9539,Hesperidin (B): [M+H]+: 0.794,Hesperidin (B),0.79,C28H34O15,[M+H]+,611.19705,-0.9,610.18977,6.5
+66,11409,Daidzein: [M+H]+: 0.633,Daidzein,0.63,C15H10O4,[M+H]+,255.06518,-1.36,254.05791,7.23
+67,11450,Urolithin A: [M+H]+: 0.661,Urolithin A,0.66,C13H8O4,[M+H]+,229.04953,-0.85,228.04226,7.25
+68,12332,Quercetin: [M+H]+: 0.616,Quercetin,0.62,C15H10O7,[M+H]+,303.04993,-1.12,302.04265,7.57
+69,12522,Cinnamic Acid: [M+H]+: 0.787,Cinnamic Acid,0.79,C9H8O2,[M+H]+,149.05971,-0.02,148.05243,7.61
+70,13733,not available,not available,not available,not available,not available,not available,not available,not available,not available
+71,14210,(+/-)-Naringenin: [M+H]+: 0.630,(+/-)-Naringenin,0.63,C15H12O5,[M+H]+,273.07575,-1.42,272.06847,8.21
+72,14411,not available,not available,not available,not available,not available,not available,not available,not available,not available
+73,14457,Apigenin: [M+H]+: 0.661,Apigenin,0.66,C15H10O5,[M+H]+,271.0601,-1.19,270.05282,8.28
+74,14542,S-equol: [M+H]+: 0.715,S-equol,0.71,C15H14O3,[M+H]+,243.10157,-0.5,242.09429,8.32
+75,14758,Kaempferol: [M+H]+: 0.576,Kaempferol,0.58,C15H10O6,[M+H]+,287.05501,-1.15,286.04774,8.43
+76,14970,not available,not available,not available,not available,not available,not available,not available,not available,not available
+77,15017,Hesperetin: [M+H]+: 0.691,Hesperetin,0.69,C16H14O6,[M+H]+,303.08631,-1.23,302.07904,8.5
+78,15057,Enterolactone: [M+H]+: 0.699,Enterolactone,0.7,C18H18O4,[M+H]+,299.12779,-1.07,298.12051,8.52
+79,15135,Isorhamnetin: [M+H]+: 0.581,Isorhamnetin,0.58,C16H12O7,[M+H]+,317.06558,-0.85,316.0583,8.58
+80,15283,not available,not available,not available,not available,not available,not available,not available,not available,not available
+81,16698,Eugenol: [M+H]+: 0.839,Eugenol,0.84,C10H12O2,[M+H]+,165.09101,-0.08,164.08373,9.08
+82,17472,Isoxanthohumol: [M+H]+: 0.690,Isoxanthohumol,0.69,C21H22O5,[M+H]+,355.154,-1.42,354.14672,9.35
+83,19755,Biochanin A: [M+H]+: 0.578,Biochanin A,0.58,C16H12O5,[M+H]+,285.07575,-1.07,284.06847,10.13
+84,20615,not available,not available,not available,not available,not available,not available,not available,not available,not available
+85,21270,8-Prenylnaringenin: [M+H]+: 0.630,8-Prenylnaringenin,0.63,C20H20O5,[M+H]+,341.13835,-1.25,340.13107,10.5
+86,26659,Xanthohumol: [M+H]+: 0.697,Xanthohumol,0.7,C21H22O5,[M+H]+,355.154,-1.28,354.14672,12.3

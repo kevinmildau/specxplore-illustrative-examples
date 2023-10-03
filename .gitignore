@@ -1,0 +1,6 @@
+models/neg
+models/pos
+
+*.pickle
+
+*.DS_Store
